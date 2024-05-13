@@ -1,5 +1,5 @@
 ### Hi👋, I'm Trần Thành Đạt
-  <img src="NTT_2048.jpg" width="100px"/>
+  <img src="NTT_2048.jpg" width="100%"/>
 
 - 🔭 I’m currently working from SoftWorld VietNam Hue branch
 - 🌱 I’m currently learning Hue University of Sciences
