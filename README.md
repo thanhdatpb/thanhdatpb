@@ -1,5 +1,6 @@
-### Hi👋, I'm Trần Thành Đạt
+### Hi 👋, I'm Trần Thành Đạt
   <img src="NTT_20481.jpg" width="100%"/>
+
 
 - 🔭 I’m currently working from SoftWorld VietNam Hue branch
 - 🌱 I’m currently learning Hue University of Sciences
