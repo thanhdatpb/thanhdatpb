@@ -10,7 +10,3 @@
 - 📫 How to reach me: tthanhdat.pb@gmail.com
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
