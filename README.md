@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Trần Thành Đạt
   
-- 🔭 I’m currently working from Soft World VietNam Hue branch
+- 🔭 I’m currently working from Soft World Viet Nam Hue branch
 - 🌱 I’m currently learning Hue University of Sciences
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with code!
