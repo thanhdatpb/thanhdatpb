@@ -1,4 +1,4 @@
-### Hi 👋, I'm Trần Thành Đạt
+### <h1 align="center">Hi 👋, I'm Trần Thành Đạt</h1>
 
 <h3 align="center">A passionate Backend Developer from VietNam</h3>
   
