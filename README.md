@@ -7,5 +7,3 @@
 - 👯 I’m looking to collaborate on github.
 - 🤔 I’m looking for help with code!
 - 📫 How to reach me: tthanhdat.pb@gmail.com
-
-    ![NTT_2079_github](https://github.com/user-attachments/assets/fd5ad544-ba48-4852-bb3e-36aff2044ebf)
