@@ -4,6 +4,7 @@
 
   
 - 🌱 I’m currently learning Hue University of Sciences.
-- 👯 I’m looking to collaborate on github.
-- 🤔 I’m looking for help with code!
+- 👯 I’m looking to collaborate on projects related to web development.
+- 🤔 I’m looking for help with advanced backend techniques!
+- 💬 Feel free to ask me anything or reach out for collaborations
 - 📫 How to reach me: tthanhdat.pb@gmail.com
