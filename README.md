@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects related to web development.
 - 🤔 I’m looking for help with advanced backend techniques.
 - 💬 Feel free to ask me anything or reach out for collaborations.
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
     Gmail: tthanhdat.pb@gmail.com<br>
     Linkedin: linkedin.com/in/tranthanhdat203
 
