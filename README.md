@@ -9,8 +9,6 @@
   </a>
 </div>
 
-<h3 align="center">A passionate Software Enginerr from Viet Nam</h3>
-
 ## <h1>Get to know me</h1>
 Being a Backend developer with my favorite programming language being Java, I am focusing on developing backend web projects. I am a learner and always want to update myself. I always prioritize finding the optimal way to solve problems.I'm really interested in teamwork and collaboration because I can benefit from their real-world perspectives and contribute my own. Instead of focusing on competing with others, I would rather concentrate on improving every day.
 
@@ -41,8 +39,3 @@ Being a Backend developer with my favorite programming language being Java, I am
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/thanhdatpb/thanhdatpb/output/snake.svg" alt="Snake animation" />
-
-###
