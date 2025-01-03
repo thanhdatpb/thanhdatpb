@@ -16,4 +16,4 @@ Being a Backend Developer with my favorite programming language being Java, I am
 - 👯 I’m looking to collaborate on projects related to web development.
 - 🤔 I’m looking for help with advanced backend techniques.
 - 💬 Feel free to ask me anything or reach out for collaborations.
-- 📫 How to reach me:tthanhdat.pb@gmail.com
+- 📫 How to reach me: tthanhdat.pb@gmail.com
