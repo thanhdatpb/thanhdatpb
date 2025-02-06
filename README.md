@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Trần Thành Đạt</h1>
+### <h1 align="center">Hi 👋, I'm Thành Đạt</h1>
 
 <div align="center">
   <a href="https://linkedin.com/in/tranthanhdat203" target="_blank">
