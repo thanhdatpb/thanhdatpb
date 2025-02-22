@@ -9,7 +9,7 @@
   </a>
 </div>
 
-## <h1>Get to know me:</h1>
+## <h1>Get to know me :</h1>
 Being a Backend Developer with my favorite programming language being Java, i'm focusing on developing backend web projects. I always prioritize finding the optimal way to solve problems. I'm really interested in teamwork and collaboration because I can benefit from their real-world perspectives and contribute my own. Instead of focusing on competing with others, I would rather concentrate on improving every day.
 
 - 🌱 I’m currently learning Hue University of Sciences.
