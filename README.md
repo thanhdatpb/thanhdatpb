@@ -7,7 +7,7 @@
 </div>
 
 ## <h1>Get to know me:</h1>
-- 🌱 I received my education at Hue University of Science.
+- 🌱 I received my education at Hue University of Sciences.
 - 👯 I’m looking to collaborate on projects related to web development.
 - 🤔 I’m looking for help with advanced backend techniques.
 - 💬 Feel free to ask me anything or reach out for collaborations.
