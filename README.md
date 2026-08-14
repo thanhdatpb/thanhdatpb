@@ -4,7 +4,7 @@
 
 Software Engineer with 2+ years of experience designing, building, and operating web applications end to end. My core strength is backend engineering with Java and Spring Boot, where I focus on well-structured RESTful APIs, clean service-layer design, and code that remains maintainable as systems grow. I also work with Golang, and with React.js on the frontend, allowing me to own a feature from database schema through to the user interface rather than handing off at the API boundary.
 
-My database experience spans MySQL, PostgreSQL, and other relational and NoSQL systems, with a focus on sound data modelling and query performance. Beyond application code, I have hands-on experience with CI/CD pipelines and server operations — how software is deployed, monitored, and kept running in production.
+My database experience spans MySQL, PostgreSQL, Oracle and other relational and NoSQL systems, with a focus on sound data modelling and query performance. Beyond application code, I have hands-on experience with CI/CD pipelines and server operations — how software is deployed, monitored, and kept running in production.
 
 ### Technical Focus
 
@@ -12,9 +12,9 @@ My database experience spans MySQL, PostgreSQL, and other relational and NoSQL s
 | --- | --- |
 | Backend | Java, Spring Boot, Golang, REST APIs, Microservices |
 | Frontend | React.js, Vue.js |
-| Database | MySQL, PostgreSQL, NoSQL, Oracel |
+| Database | MySQL, PostgreSQL, Redis, Oracle |
 | Infrastructure | CI/CD, Linux server operations, Docker |
-| AI Engineering | LLM APIs, RAG, AI agents, workflow automation, prompt & context engineering |
+| AI Engineering | LLM APIs, RAG, AI agents, workflow automation |
 
 ### Contact
 
