@@ -1,10 +1,14 @@
 <h1 align="center">Tran Thanh Dat</h1>
 
-<p align="center"><b>Software Engineer</b></p>
+<p align="center"><b>Software Engineer</b> · Backend-focused · 2+ years of experience</p>
 
-Software Engineer with 2+ years of experience designing, building, and operating web applications end to end. My core strength is backend engineering with Java and Spring Boot, where I focus on well-structured RESTful APIs, clean service-layer design, and code that remains maintainable as systems grow. I also work with Golang, and with React.js on the frontend, allowing me to own a feature from database schema through to the user interface rather than handing off at the API boundary.
+---
 
-My database experience spans MySQL, PostgreSQL, Oracle and other relational and NoSQL systems, with a focus on sound data modelling and query performance. Beyond application code, I have hands-on experience with CI/CD pipelines and server operations — how software is deployed, monitored, and kept running in production.
+- **Backend is my core.** Java and Spring Boot — well-structured REST APIs, clean service-layer design, and code that stays maintainable as systems grow.
+- **I own features end to end.** Comfortable on the frontend with React.js, so I can carry a feature from database schema through to the user interface.
+- **I ship and operate, not just build.** Hands-on with CI/CD pipelines and Linux server operations — how software gets deployed, monitored, and kept running.
+- **Data modelling matters to me.** Relational and NoSQL alike, with attention to schema design and query performance.
+- **Currently working on applied AI.** Internal AI agents built on RAG and LLM platform integration, with automated pipelines keeping their data current.
 
 ### Technical Focus
 
@@ -12,10 +16,10 @@ My database experience spans MySQL, PostgreSQL, Oracle and other relational and 
 | --- | --- |
 | Backend | Java, Spring Boot, Golang, REST APIs, Microservices |
 | Frontend | React.js, Vue.js |
-| Database | MySQL, PostgreSQL, Redis, Oracle |
+| Database | MySQL, PostgreSQL, Oracle, Redis |
 | Infrastructure | CI/CD, Linux server operations, Docker |
 | AI Engineering | LLM APIs, RAG, AI agents, workflow automation |
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/thanhdatpb/) · tthanhdat.pb@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thanhdatpb/) · [LeetCode](https://leetcode.com/u/thanhdatpb/) · tthanhdat.pb@gmail.com
