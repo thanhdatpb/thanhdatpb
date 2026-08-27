@@ -14,7 +14,7 @@
 
 | Area | Technologies |
 | --- | --- |
-| Backend | Java, Spring Boot, Golang, REST APIs, Microservices |
+| Backend | Java, Spring Boot, Golang, PHP, REST APIs, Microservices |
 | Frontend | React.js, Vue.js |
 | Database | MySQL, PostgreSQL, Oracle, Redis |
 | Infrastructure | CI/CD, Linux server operations, Docker |
