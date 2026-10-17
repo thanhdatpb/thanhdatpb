@@ -9,7 +9,7 @@
 
 ## About
 
-- ☕ **Backend core** — Java, Spring Boot, FastAPI: clean REST APIs, maintainable services
+- ☕ **Backend core** — Java, Spring Boot,Golang, FastAPI: clean REST APIs, maintainable services
 - 🖥️ **End to end** — React.js frontend, from DB schema to UI
 - 🚀 **Ship & operate** — CI/CD, Docker, Linux servers
 - 🤖 **AI Agents** — RAG, LLM integration, automated data pipelines
