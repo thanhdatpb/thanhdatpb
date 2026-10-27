@@ -12,4 +12,5 @@
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with code!
 - 💬 Ask me about anything
-- 🎉 Link LinkedIn: [https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/thanhdatpb/)
+- 🎉 Link LinkedIn: [[https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/thanhdatpb/)
+](https://www.linkedin.com/in/thanhdatpb/)
