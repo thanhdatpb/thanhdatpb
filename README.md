@@ -6,28 +6,10 @@
 </p>
 
 ---
-
-## About
-
-- ☕ **Backend core** — Java, Spring Boot, Sping AI, Golang, FastAPI: clean REST APIs, maintainable services
-- 🖥️ **End to end** — React.js frontend, from DB schema to UI
-- 🚀 **Ship & operate** — CI/CD, Docker, Linux servers
-- 🤖 **AI Agents** — RAG, LLM integration, automated data pipelines
-
-## Tech Stack
-
-| Area | Technologies |
-|---|---|
-| Backend | Java, Spring Boot, Python (FastAPI), Golang, PHP, Microservices |
-| Frontend | React.js, Vue.js |
-| Database | MySQL, PostgreSQL, Oracle, Redis |
-| Infrastructure | CI/CD, Linux, Docker |
-| AI Engineering | LLM APIs, RAG, AI agents, workflow automation |
-
-## AI Tools
-
-`Claude Code` · `OpenAI Codex` · `GitHub Copilot` · `Antigravity`
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/thanhdatpb) · [LeetCode](https://leetcode.com/u/thanhdatpb) · [tthanhdat.pb@gmail.com](mailto:tthanhdat.pb@gmail.com)
+- 🔭 I’m currently working at **Happy Creative** 
+- 🌱 I’m currently learning **Golang**, **AI integration**
+- 💻 Tech stack: Java · Spring Boot · Microservices · React.js · Golang
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with code!
+- 💬 Ask me about anything
+- 🎉 Link LinkedIn: https://www.linkedin.com/in/your-linkedin-id/
