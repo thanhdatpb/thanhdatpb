@@ -13,4 +13,4 @@
 - 🤔 I’m looking for help with code!
 - 💬 Ask me about anything
 - 🎉 Link LinkedIn: (https://www.linkedin.com/in/thanhdatpb/)
-](https://www.linkedin.com/in/thanhdatpb/)
+]
