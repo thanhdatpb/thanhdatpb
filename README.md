@@ -6,7 +6,7 @@
 </p>
 
 ---
-- 🔭 I’m currently working at **Happy Creative** 
+- 🔭 I’m currently working at **Happy Creative LLC** 
 - 🌱 I’m currently learning **Golang**, **AI integration**
 - 💻 Tech stack: Java · Spring Boot · Microservices · React.js · Golang
 - 👯 I’m looking to collaborate on GitHub
